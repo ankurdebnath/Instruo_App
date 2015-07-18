@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="top">#2196f3</color>
+	<color name="side">#e0f2f1</color>
+    <color name="red">#d50000</color>
+    <color name="back">#e0e0e0</color>
+    <color name="color1">#111eee</color>
+    <color name="color2">#633abc</color>
+    <color name="color3">#ffffff</color>
+    <color name="tab_underline">#004d40</color>
+    <color name="activate_text_color">#FF666666</color>
+    <color name="deactivate_text_color">#FFCCCCCC</color>
+    <color name="transparent">#00000000</color>
+    <color name="rippelColor">#FFFFFF</color>
+    <color name="background_tab_pressed">#80cbc4</color>
+</resources>
