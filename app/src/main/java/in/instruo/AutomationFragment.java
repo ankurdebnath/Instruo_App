@@ -19,6 +19,7 @@ import android.widget.TextView;
  */
 public class AutomationFragment extends Fragment {
 
+    /*hardcoded desc. Get in json format from API instead.*/
     public static String desc [] = {
             "<h3>INTRODUCTION</h3>\n" +
                     "<p>You have been placed in a maze and you have to get out of it. But checking every path takes a lot of time so the captors have decided to help you. The maze has letters and numbers in some of the turns to guide you in the correct direction. It is now up to you to take correct turns and reach the exit. Beware of the night though as you can't see the numbers.</p>\n" +

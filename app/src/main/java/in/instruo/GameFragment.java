@@ -17,6 +17,7 @@ import android.widget.TextView;
  */
 public class GameFragment extends Fragment {
 
+    /*hardcoded desc. Get in json format from API instead.*/
     public static String desc [] = {
             "Feel the adrenalin rush as you go neck and neck against your opponent." +
             "<h3>General Rules:</h3><br>\n" +

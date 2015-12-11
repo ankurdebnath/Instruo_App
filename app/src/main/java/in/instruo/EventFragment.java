@@ -16,6 +16,7 @@ import android.widget.ListView;
  */
 public class EventFragment extends Fragment {
 
+    /*hardcoded event desc. Get in json format from API instead.*/
     private static String junkE  = "<h3>Introduction</h3>\n" +
             "Do you have creativity? Innovative Thinking? \n" +
             "Interested in Mechanics? \n" +

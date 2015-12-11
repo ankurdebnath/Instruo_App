@@ -15,6 +15,7 @@ import android.widget.ListView;
  */
 public class CodeFragment extends Fragment {
 
+    /*hardcoded desc. Get in json format from API instead.*/
     public static String desc [] = {
             "<h3>Introduction</h3>\n" +
                     "<p>\n" +

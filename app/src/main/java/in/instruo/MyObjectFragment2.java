@@ -12,6 +12,7 @@ import android.widget.ListView;
  */
 public class MyObjectFragment2 extends Fragment {
 
+    /*hardcoded desc. Get in json format from API instead.*/
     MyMenu day3 [] = {
             new MyMenu(R.drawable.icon, "Registration"),
             new MyMenu(R.drawable.pic17, "Robotics"),

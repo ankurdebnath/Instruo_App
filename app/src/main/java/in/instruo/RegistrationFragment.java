@@ -43,6 +43,7 @@ public class RegistrationFragment extends Fragment {
             }
         });
 
+        /*link to google forms*/
         mWebview .loadUrl("http://goo.gl/forms/H67euhyxPC");
 
         v.addView(mWebview);
